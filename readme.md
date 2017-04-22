@@ -3,4 +3,4 @@
 ![Made with Love](https://img.shields.io/badge/made%20with-%e2%9d%a4-ff69b4.svg)
 
 ### 截图
-![](http://shineyang.com/app/imagehosting/zhidaily_poster.jpg)
+![](http://i4.buimg.com/4851/f2f6c1f470997d3f.jpg)
