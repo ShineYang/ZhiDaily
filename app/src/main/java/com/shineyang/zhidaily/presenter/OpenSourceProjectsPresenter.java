@@ -19,6 +19,12 @@ public class OpenSourceProjectsPresenter extends MvpBasePresenter<IOpenSourcePro
             String jsonStr = "{\n" +
                     "    \"projects\":[\n" +
                     "        {\n" +
+                    "            \"name\":\"ZhiDaily\",\n" +
+                    "            \"license\":\"Apache 2.0\",\n" +
+                    "            \"author\":\"Copyright 2017 ShineYang.\",\n" +
+                    "            \"url\":\"https://github.com/ShineYang/ZhiDaily\"\n" +
+                    "        },\n" +
+                    "        {\n" +
                     "            \"name\":\"知乎日报 API 分析\",\n" +
                     "            \"license\":\"Apache 2.0\",\n" +
                     "            \"author\":\"Copyright Zhihu.Inc.\",\n" +
