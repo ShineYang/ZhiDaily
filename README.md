@@ -27,7 +27,7 @@
 
 ### 联系我
 - Email: realshineyang@gmail.com
-- 微博: [Sh1neYang](http://weibo.com/RealShineYang)
+- Weibo: [Sh1neYang](http://weibo.com/RealShineYang)
 
 ### License
 ```
