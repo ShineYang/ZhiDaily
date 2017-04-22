@@ -1,6 +1,7 @@
 ## 知Daily (知乎日报 Redesign)
-![Made with Love](https://img.shields.io/badge/made%20with-%e2%9d%a4-ff69b4.svg)
-### 基于知乎日报重新设计的第三方客户端, MVP + Retrofit + RxJava 架构.
+![Made with Love](https://img.shields.io/badge/made%20with-%e2%9d%a4-ff69b4.svg) [![Apache License 2.0][1]][2]
+
+### 基于知乎日报重新设计的第三方客户端, MVP + Retrofit + RxJava.
 
 ### 下载
 ![](http://i1.piimg.com/4851/088eb577b67d55cc.jpg)
@@ -44,3 +45,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
+[1]:https://img.shields.io/:license-apache-blue.svg
+[2]:https://www.apache.org/licenses/LICENSE-2.0.html
