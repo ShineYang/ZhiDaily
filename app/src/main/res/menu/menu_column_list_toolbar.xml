@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.shineyang.scrapbook.activity.MainActivity">
+    <item
+        android:id="@+id/action_why"
+        android:icon="@mipmap/ic_why"
+        android:orderInCategory="100"
+        android:title="@string/text_description"
+        app:showAsAction="ifRoom" />
+
+</menu>

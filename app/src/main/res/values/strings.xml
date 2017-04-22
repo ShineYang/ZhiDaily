@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">知Daily</string>
+    <string name="text_app_redesign">知乎日报 Redesign</string>
+    <string name="text_click_to_exit">再按一次返回键退出应用</string>
+
+    <string name="text_about_content">本应用非知乎日报官方项目，以知乎日报为原型由个人重新设计开发，所有活动仅供学习交流。获取与共享之行为或有侵犯知乎权益的嫌疑。若被告知需停止共享与使用，本人会及时停止使用及删除项目。\n\n
+    Email: realshineyang@gmaill.com\n
+    Weibo: Sh1neYang</string>
+    <string name="text_hot_column_list_tip">编辑推荐内容除了用户推荐日报以外，其它栏目均已停止更新，内容迁移到读读日报 app，故您所看到的除了用户推荐日报之外的内容都是往期内容，知乎 api 内容个人开发者无法左右，还请谅解。</string>
+    <string name="text_tip">提示</string>
+    <string name="text_positive">确定</string>
+    <string name="text_description">说明</string>
+    <string name="text_all_column">所有栏目</string>
+    <string name="text_get_column_list_failed">获取栏目列表失败, 请检查网络设置</string>
+    <string name="text_load_failed_no_network">加载失败\n请检查网络设置</string>
+    <string name="text_load_column_failed_no_network">加载栏目失败\n点击重试</string>
+    <string name="text_pull_to_refresh">下拉重试</string>
+    <string name="text_comment">评论</string>
+    <string name="text_title_about">关于</string>
+    <string name="text_title_open_source">开源许可</string>
+    <string name="text_get_comment_list_failed">获取评论内容失败, 请检查网络设置</string>
+    <string name="text_xiache">瞎扯\n如何正确吐槽</string>
+    <string name="text_jingqi">深夜惊奇</string>
+    <string name="text_title_xiache">瞎扯·合集</string>
+    <string name="text_title_jingqi">深夜惊奇·合集</string>
+    <string name="text_footer_click_loading_more">点击加载更多内容</string>
+    <string name="text_footer_loading">正在加载…</string>
+    <string name="text_share">分享</string>
+    <string name="text_share_story_url">分享此篇文章</string>
+    <string name="text_footer_get_story_list_failed">加载失败, 点击重试</string>
+    <string name="text_footer_get_yesterday_story">点击加载前一天内容</string>
+    <string name="text_load_more_failed">获取新内容失败, 请检查网络设置</string>
+    <string name="text_get_story_content_failed">获取内容失败, 请检查网络设置</string>
+    <string name="text_feedback">知Daily反馈</string>
+    <string name="text_pic_copyright">图©</string>
+    <string name="text_pic_from_internet">图片来自网络</string>
+    <string name="text_no_comment">暂无评论</string>
+    <string name="text_click_to_load_short_comment">点击查看剩余短评</string>
+
+
+
+
+
+
+
+
+</resources>

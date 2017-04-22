@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="projects">
+        {
+" +
+                    "    \"projects\":[\n" +
+                    "        {\n" +
+                    "            \"name\":\"ButterKnife\",\n" +
+                    "            \"license\":\"Apache 2.0\",\n" +
+                    "            \"author\":\"Copyright 2013 Jake Wharton.\",\n" +
+                    "            \"url\":\"https://github.com/JakeWharton/butterknife\"\n" +
+                    "        },\n" +
+                    "        {\n" +
+                    "            \"name\":\"Alerter\",\n" +
+                    "            \"license\":\"MIT\",\n" +
+                    "            \"author\":\"Copyright 2016 Tapadoo, Dublin.\",\n" +
+                    "            \"url\":\"https://github.com/Tapadoo/Alerter\"\n" +
+                    "        },\n" +
+                    "        {\n" +
+                    "            \"name\":\"AVLoadingIndicatorView\",\n" +
+                    "            \"license\":\"Apache 2.0\",\n" +
+                    "            \"author\":\"Copyright 2015 jack wang.\",\n" +
+                    "            \"url\":\"https://github.com/81813780/AVLoadingIndicatorView\"\n" +
+                    "        },\n" +
+                    "        {\n" +
+                    "            \"name\":\"BaseRecyclerViewAdapterHelper\",\n" +
+                    "            \"license\":\"Apache 2.0\",\n" +
+                    "            \"author\":\"Copyright 2016 陈宇明.\",\n" +
+                    "            \"url\":\"https://github.com/CymChad/BaseRecyclerViewAdapterHelper\"\n" +
+                    "        },\n" +
+                    "        {\n" +
+                    "            \"name\":\"Mosby\",\n" +
+                    "            \"license\":\"Apache 2.0\",\n" +
+                    "            \"author\":\"Copyright 2015 Hannes Dorfmann.\",\n" +
+                    "            \"url\":\"https://github.com/sockeqwe/mosby\"\n" +
+                    "        },\n" +
+                    "        {\n" +
+                    "            \"name\":\"Material-Dialogs\",\n" +
+                    "            \"license\":\"MIT\",\n" +
+                    "            \"author\":\"Copyright 2017 afollestad.\",\n" +
+                    "            \"url\":\"https://github.com/afollestad/material-dialogs\"\n" +
+                    "        },\n" +
+                    "        {\n" +
+                    "            \"name\":\"RxAndroid\",\n" +
+                    "            \"license\":\"Apache 2.0\",\n" +
+                    "            \"author\":\"Copyright 2015 The RxAndroid authors.\",\n" +
+                    "            \"url\":\"https://github.com/ReactiveX/RxAndroid\"\n" +
+                    "        },\n" +
+                    "        {\n" +
+                    "            \"name\":\"RxJava\",\n" +
+                    "            \"license\":\"Apache 2.0\",\n" +
+                    "            \"author\":\"Copyright 2016-present, RxJava Contributors\",\n" +
+                    "            \"url\":\"https://github.com/ReactiveX/RxJava\"\n" +
+                    "        },\n" +
+                    "        {\n" +
+                    "            \"name\":\"Retrofit\",\n" +
+                    "            \"license\":\"Apache 2.0\",\n" +
+                    "            \"author\":\"Copyright 2013 Square, Inc.\",\n" +
+                    "            \"url\":\"https://github.com/square/retrofit\"\n" +
+                    "        },\n" +
+                    "        {\n" +
+                    "            \"name\":\"Okhttp\",\n" +
+                    "            \"license\":\"Apache 2.0\",\n" +
+                    "            \"author\":\"Copyright Square, Inc.\",\n" +
+                    "            \"url\":\"https://github.com/square/okhttp\"\n" +
+                    "        },\n" +
+                    "        {\n" +
+                    "            \"name\":\"Glide\",\n" +
+                    "            \"license\":\"BSD, part MIT and Apache 2.0\",\n" +
+                    "            \"author\":\"Copyright Sam Judd - sjudd, samajudd.\",\n" +
+                    "            \"url\":\"https://github.com/bumptech/glide\"\n" +
+                    "        },\n" +
+                    "        {\n" +
+                    "            \"name\":\"Banner\",\n" +
+                    "            \"license\":\"Apache 2.0\",\n" +
+                    "            \"author\":\"Copyright youth5201314.\",\n" +
+                    "            \"url\":\"https://github.com/youth5201314/banner\"\n" +
+                    "        }\n" +
+                    "    ]\n" +
+                    "}
+        </string>
+</resources>

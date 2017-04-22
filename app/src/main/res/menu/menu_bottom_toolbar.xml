@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.shineyang.scrapbook.activity.MainActivity">
+    <item
+        android:id="@+id/action_share"
+        android:icon="@mipmap/ic_bottom_toolbar_share"
+        android:orderInCategory="100"
+        android:title="@string/text_share"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_comment"
+        android:icon="@mipmap/ic_bottom_toolbar_comment"
+        android:orderInCategory="90"
+        android:title="@string/text_comment"
+        app:showAsAction="always" />
+
+</menu>

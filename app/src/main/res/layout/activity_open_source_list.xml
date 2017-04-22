@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_open_source_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.shineyang.zhidaily.ui.activity.OpenSourceListActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_open_source"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:elevation="4dp"
+        app:navigationIcon="?attr/homeAsUpIndicator"
+        app:theme="@style/ToolbarTheme" />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_below="@+id/toolbar_open_source"
+        android:id="@+id/rv_open_source"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp" />
+</RelativeLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="@drawable/footer_bg">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:id="@+id/tv_footer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/text_footer_get_yesterday_story"
+            android:textColor="@color/grey400"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/iv_footer_date"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_below="@+id/tv_footer"
+            android:layout_centerHorizontal="true"
+            android:src="@mipmap/ic_arrow_down" />
+    </RelativeLayout>
+
+</RelativeLayout>
