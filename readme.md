@@ -1,6 +1,6 @@
 ## 知Daily (知乎日报 Redesign)
 ![Made with Love](https://img.shields.io/badge/made%20with-%e2%9d%a4-ff69b4.svg)
-### 基于知乎日报重新设计的第三方客户端.
+### 基于知乎日报重新设计的第三方客户端, MVP + Retrofit + RxJava 架构.
 
 ### 下载
 ![](http://i1.piimg.com/4851/088eb577b67d55cc.jpg)
@@ -10,8 +10,21 @@
 ### 截图
 ![](http://i4.buimg.com/4851/f2f6c1f470997d3f.jpg)
 
-### 截图
+### 感谢以下开源项目
+* [RxJava](https://github.com/ReactiveX/RxJava)
+* [Butterknife](https://github.com/JakeWharton/butterknife)
+* [Retrofit](https://github.com/square/retrofit)
+* [知乎日报 API 分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90)
+* [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
+* [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+* [Mosby](https://github.com/sockeqwe/mosby)
+* [Material-Dialogs](https://github.com/afollestad/material-dialogs)
+* [Banner](https://github.com/youth5201314/banner)
 
+### 其它
+ - 将提供 sketch 设计文件
 
-### 截图
+### 联系我
+- Email: realshineyang@gmail.com
+- 微博: [Sh1neYang](http://weibo.com/RealShineYang)
 
