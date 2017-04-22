@@ -1,7 +1,7 @@
 ## 知Daily (知乎日报 Redesign)
 ![Made with Love](https://img.shields.io/badge/made%20with-%e2%9d%a4-ff69b4.svg) [![Apache License 2.0][1]][2]
 
-### 基于知乎日报重新设计的第三方客户端, MVP + Retrofit + RxJava.
+> 基于知乎日报重新设计的第三方客户端, MVP + Retrofit + RxJava.
 
 ### 下载
 ![](http://i1.piimg.com/4851/088eb577b67d55cc.jpg)
