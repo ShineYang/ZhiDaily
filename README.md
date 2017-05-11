@@ -28,7 +28,6 @@
 ### 联系我
 - Email: realshineyang@gmail.com
 - Weibo: [Sh1neYang](http://weibo.com/RealShineYang)
-- 求实习职位，个人详细简历可联系邮箱索取.
 
 
 ### License
