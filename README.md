@@ -3,14 +3,6 @@
 
 > 基于知乎日报重新设计的第三方客户端, MVP + Retrofit + RxJava.
 
-### 下载
-![](http://i1.piimg.com/4851/088eb577b67d55cc.jpg)
-
-(若 Fir.im 下载次数达到上限，请使用 FTP 下载)
-
-### 截图
-![](http://i4.buimg.com/4851/f2f6c1f470997d3f.jpg)
-
 ### 感谢以下开源项目
 * [RxJava](https://github.com/ReactiveX/RxJava)
 * [Butterknife](https://github.com/JakeWharton/butterknife)
@@ -21,9 +13,6 @@
 * [Mosby](https://github.com/sockeqwe/mosby)
 * [Material-Dialogs](https://github.com/afollestad/material-dialogs)
 * [Banner](https://github.com/youth5201314/banner)
-
-### 其它
- - 将提供 sketch 设计文件
 
 ### 联系我
 - Email: realshineyang@gmail.com
