@@ -15,7 +15,7 @@
 * [Banner](https://github.com/youth5201314/banner)
 
 ### 联系我
-- Email: realshineyang@gmail.com
+- Email: shineyangme@gmail.com
 - Weibo: [Sh1neYang](http://weibo.com/RealShineYang)
 
 
